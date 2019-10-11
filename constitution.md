@@ -285,12 +285,7 @@ When vacancies happen in the representation of any State in the Senate, the exec
 
 This amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution.
 
-## Amendment XVIII (1919)
-__Section 1.__ After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.
 
-__Section 2.__ The Congress and the several States shall have concurrent power to enforce this article by appropriate legislation.
-
-__Section 3.__ This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
 
 ## Amendment XIX (1920)
 The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.
@@ -310,12 +305,7 @@ __Section 5.__ Sections 1 and 2 shall take effect on the 15th day of October fol
 
 __Section 6.__ This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission.
 
-## Amendment XXI (1933)
-__Section 1.__ The eighteenth article of amendment to the Constitution of the United States is hereby repealed.
 
-__Section 2.__  The transportation or importation into any State, Territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited.
-
-__Section 3.__  This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by conventions in the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
 
 ## Amendment XXII (1951)
 __Section 1.__ No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once. But this Article shall not apply to any person holding the office of President, when this Article was proposed by the Congress, and shall not prevent any person who may be holding the office of President, or acting as President, during the term within which this Article becomes operative from holding the office of President or acting as President during the remainder of such term.

@@ -221,8 +221,7 @@ The Ratification of the Conventions of nine States, shall be sufficient for the 
 ## Amendment I (1791)
 Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
 
-## Amendment II (1791)
-A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
+#Removed the second amendment
 
 ## Amendment III (1791)
 No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
@@ -285,12 +284,7 @@ When vacancies happen in the representation of any State in the Senate, the exec
 
 This amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution.
 
-## Amendment XVIII (1919)
-__Section 1.__ After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.
 
-__Section 2.__ The Congress and the several States shall have concurrent power to enforce this article by appropriate legislation.
-
-__Section 3.__ This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
 
 ## Amendment XIX (1920)
 The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.

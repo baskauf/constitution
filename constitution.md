@@ -1,15 +1,5 @@
-# US Constitution (with amendments)
+﻿# Fake Country Constitution (with amendments)
 
-**Important notes:**
-
-* File obtained from https://github.com/publicdocs/usconstitution/blob/master/assets/md/constitution.md
-* Use of this file is subject to the NOTICE at [https://publicdocs.github.io/notice/NOTICE.txt](https://publicdocs.github.io/notice/NOTICE.txt)
-* Document Metadata:
-  * This is a Markdown edition of the US Constitution.
-  * Original provenance of plain text
-      * URL: http://www.senate.gov/civics/constitution_item/constitution.htm
-
-------
 
 We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
 
